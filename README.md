@@ -5,6 +5,6 @@
 </p>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahosall&theme=onedark" alt="Feh's" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahosall&theme=onedark&layout=compact" alt="Feh's" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ahosall&theme=onedark" alt="Feh's" />
 </div>
