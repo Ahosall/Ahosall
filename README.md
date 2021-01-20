@@ -13,4 +13,6 @@
 </p>
 
 **Wakatime Week Stats**
+<p align="center" style="position: absolute;">    
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ahosall&theme=onedark" alt="Feh's" />
+</p>
