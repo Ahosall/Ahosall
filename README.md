@@ -2,8 +2,7 @@
 <h3 align="center">
    Yoo, im Feh's ØwØ¬
 </h3>
-
-
+<hr>
 <p align="center" style="position: relative;">
    <img src="https://github-readme-stats.vercel.app/api?username=Ahosall&show_icons=true&theme=onedark" alt="Feh's" />
 </p>
