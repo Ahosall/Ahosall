@@ -17,9 +17,6 @@
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
   ![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase)
-<!-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)-->
 - 🔧 &nbsp;
   [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com)
   [![Sublime Text 3](https://img.shields.io/badge/-Sublime%20Text%203-333333?style=flat&logo=sublime-text&logoColor=orange)](https://www.sublimetext.com/3)
