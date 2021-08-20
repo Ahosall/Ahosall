@@ -36,7 +36,7 @@
     🐘 | PHP - hein? <b>PHP</b>? Meeee ... sim eu também sei <b>PHP</b> hahaha fiz algumas coisas com <b>PHP</b> (um projeto em MVC), mas não gostei muito, é muito legal você pode fazer muitas coisas. Com ele aprendi <b>MySQL</b> e como hospedar sites heh.
   </li>
   <li>
-    📦 | MySQL - Como disse antes, conheci <b>MySQL</b> junto com <b>PHP</b> atualmente não me lembro muito bem, mas se estudar um pouco de novo devo lembrar de quase tudo. .. <code>SELECIONE y.HEART FROM YOU y</code> 😏🤍.
+    📦 | MySQL - Como disse antes, conheci <b>MySQL</b> junto com <b>PHP</b> atualmente não me lembro muito bem, mas se estudar um pouco de novo devo lembrar de quase tudo. .. <code>SELECT y.heart FROM YOU y</code> 😏🤍.
   </li>
   <li>
     📦 | MongoDB - Isso mesmo, eu conheço <b>MongoDB</b> heheh, conheci quando aprendi a fazer bots para o Discord, pensei que era bom para pequenos aplicativos ..
