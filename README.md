@@ -24,22 +24,22 @@
 </p>
 <ul>
   <li>
-    🐍 | Python - Comecei a estudar seriamente Python este ano. Mas como eu já conheci <b>JS</b>, então ... sou meio que bom nele heh.
+    🐍 | Python - Comecei a estudar seriamente Python este ano. Mas como eu já conhecia <b>JS</b>, então ... eu conheço um pouco sobre ele.
   </li>
   <li>
-    💻 | JavaScript - Eu estudo JavaScript desde os 14 anos, sempre gostei dessa linguagem, eu acho ela simplesmente maravilhosa, dá para fazer muuuitas coisas com ela hehe.
+    💻 | JavaScript - Eu estudo JavaScript desde os 14 anos, sempre gostei dessa linguagem, e eu acho ela simplesmente maravilhosa, dá para fazer muuuitas coisas com ela hehe.
   </li>
   <li>
-    🐧 | Shell Script - Sim, eu sei <b>Shell Script</b> (não, não é o post Shell hahah), conheci-o quando meu pai me apresentou ao Linux Ubuntu (um dos meus sistemas operacionais favoritos heh), gostei de ver código rodando na tela, mas eu odiava ter que escrever isso toda vez que eu queria instalá-lo no meu computador ou em outra pessoa haha ​​(sim, sou preguiçoso ... hahahahah).
+    🐧 | Shell Script - Sim, eu sei <b>Shell Script</b> (não, não é o post Shell hahah), conheci-o quando meu pai me apresentou ao Linux Ubuntu (um dos meus sistemas operacionais favoritos heh), gostei de ver código rodando na tela, mas eu odiava ter que escrever isso toda vez que eu queria instalá-lo no meu computador ou em outra pessoa ​​(sim, sou preguiçoso ... hahahahah).
   </li>
   <li>
-    🐘 | PHP - hein? <b>PHP</b>? Meeee ... sim eu também sei <b>PHP</b> hahaha fiz algumas coisas com <b>PHP</b> (um projeto em MVC), mas não gostei muito, é muito legal você pode fazer muitas coisas. Com ele aprendi <b>MySQL</b> e como hospedar sites heh.
+    🐘 | PHP - hein? <b>PHP</b>? Ent ... sim eu também sei um pouco sobre <b>PHP</b> ... fiz algumas coisas com <b>PHP</b> (um projeto em MVC), mas não gostei muito. Com ele aprendi <b>MySQL</b> e como hospedar sites também...
   </li>
   <li>
     📦 | MySQL - Como disse antes, conheci <b>MySQL</b> junto com <b>PHP</b> atualmente não me lembro muito bem, mas se estudar um pouco de novo devo lembrar de quase tudo. .. <code>SELECT y.heart FROM YOU y</code> 😏🤍.
   </li>
   <li>
-    📦 | MongoDB - Isso mesmo, eu conheço <b>MongoDB</b> heheh, conheci quando aprendi a fazer bots para o Discord, pensei que era bom para pequenos aplicativos ..
+    📦 | MongoDB - Isso mesmo, eu tbm sei um pouco sobre <b>MongoDB</b>, conheci quando aprendi a fazer bots para o Discord, pensei que era bom para pequenos aplicativos ..
   </li>
 </ul>
 <blockquote>
@@ -48,9 +48,6 @@
 <h2>
   Github Analytics
 </h2>
-<p>
-  Agora irei mostrar alguns gráficos sobre mim no GitHub.
-</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahosall&show_icons=true&theme=tokyonight" alt="Feh's" style="min-width=50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahosall&theme=tokyonight&layout=compact" alt="Feh's" style="max-width=70%"/>
@@ -68,9 +65,11 @@
     Coded with 🤍by <a href="https://github.com/Ahosall">Ahosall (Feh's)</a>
   </p>
   <p>
-    <img alt="Version" src="https://img.shields.io/static/v1?label=Discord&message=Feh's%235060&style=for-the-badge&color=blue&logo=discord"/>
-    <a href="https://chat.whatsapp.com/J4vkmipzGp7EH4dxTSCt4t">
-      <img alt="Version" src="https://img.shields.io/static/v1?label=Whatsapp&message=SAWT-SEC GERAL&style=for-the-badge&color=green&logo=whatsapp"/>
+    <a href="https://discord.gg/Brpu6s26KZ">
+      <img alt="Version" src="https://img.shields.io/static/v1?label=Discord&message=Feh%27s%20Server&style=for-the-badge&color=blue&logo=discord"/>
+    </a>
+    <a href="https://wa.me/5565992374615">
+      <img alt="Version" src="https://img.shields.io/static/v1?label=Whatsapp&message=+55 (65) 9.99237-4615&style=for-the-badge&color=green&logo=whatsapp"/>
     </a>
   </p>
 </div>
