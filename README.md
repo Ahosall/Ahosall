@@ -5,6 +5,16 @@
   <h4>Hello Human!👋</h4>
 </div>
 <div>
+  <h2>Who am I?</h2>
+  <ul>
+    <li>My name is <b>Felipe</b>! But I'm known as <b>AhosAll</b> or <b>Feh's</b>...</li>
+    <li>I'm currently studying web development, but I've worked on small projects in several areas, such as FullStack, Dev Backend, or Dev Frontend.</li>
+    <li>I like automations (service facilitators/enablers in general, and bots)</li>
+    <li>I love the hacking world too!</li>
+    <li>Currently I am not attending any college, but I intend to do Computer Science.</li>
+  </ul>
+</div>
+<div>
   <h2>Github Stats</h2>
   <table align="center" width="100%" border="0">
     <tr>
@@ -24,7 +34,7 @@
       </td>
     </tr>
   </table>
-  <h2>Technologies</h2>
+  <h2>Main Languages</h2>
   <div align="center">
     <a href="https://www.typescriptlang.org/docs/">
       <span>
@@ -47,48 +57,23 @@
           alt="Python" />
       </span>
     </a>
-    <a href="https://www.mysql.com/">
-      <span>
-        <img align="center"
-          src="https://img.shields.io/badge/MySQL-F29011?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      </span>
-    </a>
-    <a href="https://firebirdsql.org/">
-      <span>
-        <img align="center" src="https://img.shields.io/badge/Firebird-F47640?style=for-the-badge" alt="Firebird" />
-      </span>
-    </a>
-    <a href="https://www.mongodb.com/">
-      <span>
-        <img align="center"
-          src="https://img.shields.io/badge/MongoDB-00ED63?style=for-the-badge&logo=mongodb&logoColor=black"
-          alt="MongoDB" />
-      </span>
-    </a>
-    <a href="https://www.embarcadero.com/">
-      <span>
-        <img align="center"
-          src="https://img.shields.io/badge/Delphi-9F0E20?style=for-the-badge&logo=delphi&logoColor=black"
-          alt="Delphi" />
-      </span>
-    </a>
   </div>
 
   <h2>Contact</h2>
-  <div>
+  <div align="center">
     <a href="https://wa.me/556592374615">
       <img align="center"
         src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&color=green&logo=whatsapp&logoColor=white"
         alt="WhatsApp"/>
     </a>
-    <a href="https://discord.gg/Brpu6s26KZ">
+    <a href="https://discord.gg/WSYd2EDANd">
       <img align="center"
-        src="https://img.shields.io/static/v1?label=Discord&message=Feh's Server&color=007DC6&style=for-the-badge&logo=discord&logoColor=white"
-        alt="Discord" />
+        src="https://img.shields.io/badge/Discord-green?style=for-the-badge&color=blue&logo=discord&logoColor=white"
+        alt="WhatsApp"/>
     </a>
   </div>
 </div>
 <div align="center">
   <hr>
-  Coded by <b>Feh's</b> with 🤍!
+  Made with 🤍 by <b>Feh's</b>!
 </div>
