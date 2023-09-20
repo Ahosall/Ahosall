@@ -21,14 +21,14 @@
       <td>
         <a href="https://github.com/Ahosall">
           <img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=ahosall&include_all_commits=false&count_private=true&show_icons=true&line_height=20text_color=D3D3D3&bg_color=0d1117&hide_border=true&custom_title=Estatísticas%20do%20Github&locale=pt-br"
+            src="https://github-readme-stats.vercel.app/api?username=ahosall&include_all_commits=false&count_private=true&show_icons=true&line_height=20text_color=D3D3D3&bg_color=0d1117&hide_border=true&custom_title=Estatísticas%20do%20Github"
             alt="AhosAll Github Stats" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Ahosall">
           <img align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahosall&text_color=D3D3D3&bg_color=0d1117&hide_border=true&layout=compact&locale=pt-br"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahosall&text_color=D3D3D3&bg_color=0d1117&hide_border=true&layout=compact"
             alt="AhosAll Language Stats" />
         </a>
       </td>
@@ -61,15 +61,10 @@
 
   <h2>Contact</h2>
   <div align="center">
-    <a href="https://wa.me/556592374615">
-      <img align="center"
-        src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&color=green&logo=whatsapp&logoColor=white"
-        alt="WhatsApp"/>
-    </a>
-    <a href="https://discord.gg/WSYd2EDANd">
+    <a href="https://discord.com/users/683703998729027769">
       <img align="center"
         src="https://img.shields.io/badge/Discord-green?style=for-the-badge&color=blue&logo=discord&logoColor=white"
-        alt="WhatsApp"/>
+        alt="Discord"/>
     </a>
   </div>
 </div>
