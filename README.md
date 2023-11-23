@@ -15,7 +15,7 @@
   </ul>
 </div>
 <div>
-  <h2>Github Stats</h2>
+  <h2>Stats</h2>
   <table align="center" width="100%" border="0">
     <tr>
       <td>
@@ -34,6 +34,11 @@
       </td>
     </tr>
   </table>
+  <div align="center">
+    <a href="https://www.codewars.com/users/Ahosall/">
+      <img src="https://www.codewars.com/users/Ahosall/badges/large" alt="CodeWars Stats"/>
+    </a>
+  </div>
   <h2>Main Languages</h2>
   <div align="center">
     <a href="https://www.typescriptlang.org/docs/">
