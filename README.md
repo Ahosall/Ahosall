@@ -5,17 +5,17 @@
   <h4>Hello Human!👋</h4>
 </div>
 <div>
-  <h2>Who am I?</h2>
+  <h2>⁉ Who am I?</h2>
   <ul>
-    <li>My name is <b>Felipe</b>! But I'm known as <b>AhosAll</b> or <b>Feh's</b>...</li>
-    <li>I'm currently studying web development, but I've worked on small projects in several areas, such as FullStack, Dev Backend, or Dev Frontend.</li>
-    <li>I like automations (service facilitators/enablers in general, and bots)</li>
-    <li>I love the hacking world too!</li>
-    <li>Currently I am not attending any college, but I intend to do Computer Science.</li>
+    <li>🙋‍♂️ My name is <b>Felipe</b>! But I'm known as <b>AhosAll</b> or <b>Feh's</b>...</li>
+    <li>📚 I'm currently studying web development, but I've worked on small projects in different areas, such as FullStack, backend programmer or frontend programmer.</li>
+    <li>🤖 I like automations (service facilitators/enablers in general, and bots)</li>
+    <li>👨‍💻 I love the hacking world too!</li>
+    <li>🤓 Currently I am not attending any college, but I intend to do Computer Science.</li>
   </ul>
 </div>
 <div>
-  <h2>Stats</h2>
+  <h2>📊 Stats</h2>
   <table align="center" width="100%" border="0">
     <tr>
       <td>
@@ -39,7 +39,7 @@
       <img src="https://www.codewars.com/users/Ahosall/badges/large" alt="CodeWars Stats"/>
     </a>
   </div>
-  <h2>Main Languages</h2>
+  <h2>💻 Main Languages</h2>
   <div align="center">
     <a href="https://www.typescriptlang.org/docs/">
       <span>
@@ -64,7 +64,7 @@
     </a>
   </div>
 
-  <h2>Contact</h2>
+  <h2>📞 Contact</h2>
   <div align="center">
     <a href="https://discord.com/users/683703998729027769">
       <img align="center"
