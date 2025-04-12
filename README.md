@@ -5,13 +5,6 @@
   </div>
   <h2>💻 Main Languages</h2>
   <div align="center">
-    <a href="https://www.javascript.com/">
-      <span>
-        <img align="center"
-          src="https://img.shields.io/badge/JavaScript-FCDC00?style=for-the-badge&logo=javascript&logoColor=black"
-          alt="JavaScript" />
-      </span>
-    </a>
     <a href="https://www.typescriptlang.org/">
       <span>
         <img align="center"
